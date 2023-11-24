@@ -1,0 +1,703 @@
+Hmotnosť batohu: 19047
+Počet prvkov v batohu: 350
+Hodnota účelovej funkcie: 22548
+Predmet č.1 : Hmotnosť 42, Cena 79
+--------------
+Predmet č.2 : Hmotnosť 35, Cena 65
+--------------
+Predmet č.4 : Hmotnosť 73, Cena 79
+--------------
+Predmet č.5 : Hmotnosť 71, Cena 55
+--------------
+Predmet č.7 : Hmotnosť 52, Cena 41
+--------------
+Predmet č.10 : Hmotnosť 40, Cena 59
+--------------
+Predmet č.12 : Hmotnosť 65, Cena 89
+--------------
+Predmet č.13 : Hmotnosť 52, Cena 43
+--------------
+Predmet č.14 : Hmotnosť 68, Cena 65
+--------------
+Predmet č.15 : Hmotnosť 40, Cena 74
+--------------
+Predmet č.16 : Hmotnosť 77, Cena 65
+--------------
+Predmet č.17 : Hmotnosť 41, Cena 80
+--------------
+Predmet č.18 : Hmotnosť 35, Cena 54
+--------------
+Predmet č.19 : Hmotnosť 31, Cena 79
+--------------
+Predmet č.23 : Hmotnosť 38, Cena 88
+--------------
+Predmet č.24 : Hmotnosť 48, Cena 64
+--------------
+Predmet č.25 : Hmotnosť 32, Cena 78
+--------------
+Predmet č.26 : Hmotnosť 61, Cena 62
+--------------
+Predmet č.28 : Hmotnosť 64, Cena 64
+--------------
+Predmet č.29 : Hmotnosť 59, Cena 87
+--------------
+Predmet č.30 : Hmotnosť 63, Cena 49
+--------------
+Predmet č.31 : Hmotnosť 72, Cena 80
+--------------
+Predmet č.32 : Hmotnosť 30, Cena 67
+--------------
+Predmet č.34 : Hmotnosť 34, Cena 58
+--------------
+Predmet č.35 : Hmotnosť 74, Cena 64
+--------------
+Predmet č.36 : Hmotnosť 38, Cena 48
+--------------
+Predmet č.37 : Hmotnosť 75, Cena 63
+--------------
+Predmet č.38 : Hmotnosť 56, Cena 43
+--------------
+Predmet č.39 : Hmotnosť 43, Cena 56
+--------------
+Predmet č.40 : Hmotnosť 60, Cena 45
+--------------
+Predmet č.41 : Hmotnosť 77, Cena 50
+--------------
+Predmet č.42 : Hmotnosť 33, Cena 80
+--------------
+Predmet č.43 : Hmotnosť 44, Cena 43
+--------------
+Predmet č.44 : Hmotnosť 50, Cena 81
+--------------
+Predmet č.45 : Hmotnosť 50, Cena 78
+--------------
+Predmet č.48 : Hmotnosť 51, Cena 86
+--------------
+Predmet č.49 : Hmotnosť 32, Cena 84
+--------------
+Predmet č.50 : Hmotnosť 80, Cena 78
+--------------
+Predmet č.51 : Hmotnosť 68, Cena 63
+--------------
+Predmet č.53 : Hmotnosť 59, Cena 74
+--------------
+Predmet č.54 : Hmotnosť 36, Cena 79
+--------------
+Predmet č.55 : Hmotnosť 60, Cena 62
+--------------
+Predmet č.56 : Hmotnosť 75, Cena 83
+--------------
+Predmet č.57 : Hmotnosť 47, Cena 43
+--------------
+Predmet č.58 : Hmotnosť 74, Cena 64
+--------------
+Predmet č.60 : Hmotnosť 32, Cena 65
+--------------
+Predmet č.61 : Hmotnosť 52, Cena 56
+--------------
+Predmet č.62 : Hmotnosť 34, Cena 46
+--------------
+Predmet č.63 : Hmotnosť 68, Cena 68
+--------------
+Predmet č.66 : Hmotnosť 76, Cena 64
+--------------
+Predmet č.67 : Hmotnosť 79, Cena 40
+--------------
+Predmet č.68 : Hmotnosť 42, Cena 87
+--------------
+Predmet č.69 : Hmotnosť 69, Cena 41
+--------------
+Predmet č.70 : Hmotnosť 76, Cena 51
+--------------
+Predmet č.72 : Hmotnosť 35, Cena 51
+--------------
+Predmet č.73 : Hmotnosť 42, Cena 47
+--------------
+Predmet č.78 : Hmotnosť 33, Cena 62
+--------------
+Predmet č.80 : Hmotnosť 61, Cena 80
+--------------
+Predmet č.81 : Hmotnosť 65, Cena 51
+--------------
+Predmet č.82 : Hmotnosť 69, Cena 69
+--------------
+Predmet č.84 : Hmotnosť 41, Cena 54
+--------------
+Predmet č.85 : Hmotnosť 63, Cena 55
+--------------
+Predmet č.86 : Hmotnosť 80, Cena 61
+--------------
+Predmet č.87 : Hmotnosť 33, Cena 89
+--------------
+Predmet č.90 : Hmotnosť 55, Cena 87
+--------------
+Predmet č.91 : Hmotnosť 77, Cena 43
+--------------
+Predmet č.92 : Hmotnosť 34, Cena 44
+--------------
+Predmet č.93 : Hmotnosť 66, Cena 81
+--------------
+Predmet č.94 : Hmotnosť 54, Cena 41
+--------------
+Predmet č.95 : Hmotnosť 74, Cena 89
+--------------
+Predmet č.96 : Hmotnosť 72, Cena 58
+--------------
+Predmet č.97 : Hmotnosť 79, Cena 81
+--------------
+Predmet č.98 : Hmotnosť 35, Cena 44
+--------------
+Predmet č.99 : Hmotnosť 51, Cena 89
+--------------
+Predmet č.100 : Hmotnosť 30, Cena 56
+--------------
+Predmet č.101 : Hmotnosť 71, Cena 53
+--------------
+Predmet č.103 : Hmotnosť 46, Cena 88
+--------------
+Predmet č.104 : Hmotnosť 41, Cena 40
+--------------
+Predmet č.105 : Hmotnosť 79, Cena 41
+--------------
+Predmet č.107 : Hmotnosť 73, Cena 86
+--------------
+Predmet č.108 : Hmotnosť 76, Cena 42
+--------------
+Predmet č.109 : Hmotnosť 64, Cena 55
+--------------
+Predmet č.110 : Hmotnosť 75, Cena 86
+--------------
+Predmet č.112 : Hmotnosť 54, Cena 59
+--------------
+Predmet č.115 : Hmotnosť 70, Cena 87
+--------------
+Predmet č.117 : Hmotnosť 49, Cena 76
+--------------
+Predmet č.119 : Hmotnosť 46, Cena 81
+--------------
+Predmet č.120 : Hmotnosť 40, Cena 63
+--------------
+Predmet č.121 : Hmotnosť 37, Cena 61
+--------------
+Predmet č.123 : Hmotnosť 61, Cena 55
+--------------
+Predmet č.125 : Hmotnosť 48, Cena 73
+--------------
+Predmet č.126 : Hmotnosť 69, Cena 47
+--------------
+Predmet č.127 : Hmotnosť 36, Cena 52
+--------------
+Predmet č.129 : Hmotnosť 38, Cena 79
+--------------
+Predmet č.130 : Hmotnosť 71, Cena 61
+--------------
+Predmet č.131 : Hmotnosť 79, Cena 69
+--------------
+Predmet č.134 : Hmotnosť 60, Cena 83
+--------------
+Predmet č.137 : Hmotnosť 64, Cena 46
+--------------
+Predmet č.138 : Hmotnosť 40, Cena 82
+--------------
+Predmet č.139 : Hmotnosť 35, Cena 66
+--------------
+Predmet č.141 : Hmotnosť 46, Cena 73
+--------------
+Predmet č.143 : Hmotnosť 72, Cena 86
+--------------
+Predmet č.144 : Hmotnosť 47, Cena 89
+--------------
+Predmet č.145 : Hmotnosť 39, Cena 75
+--------------
+Predmet č.147 : Hmotnosť 70, Cena 49
+--------------
+Predmet č.148 : Hmotnosť 47, Cena 86
+--------------
+Predmet č.149 : Hmotnosť 34, Cena 49
+--------------
+Predmet č.150 : Hmotnosť 33, Cena 59
+--------------
+Predmet č.151 : Hmotnosť 45, Cena 50
+--------------
+Predmet č.153 : Hmotnosť 47, Cena 88
+--------------
+Predmet č.154 : Hmotnosť 55, Cena 46
+--------------
+Predmet č.155 : Hmotnosť 59, Cena 84
+--------------
+Predmet č.156 : Hmotnosť 69, Cena 90
+--------------
+Predmet č.159 : Hmotnosť 42, Cena 72
+--------------
+Predmet č.161 : Hmotnosť 47, Cena 71
+--------------
+Predmet č.162 : Hmotnosť 60, Cena 78
+--------------
+Predmet č.163 : Hmotnosť 38, Cena 43
+--------------
+Predmet č.164 : Hmotnosť 34, Cena 40
+--------------
+Predmet č.166 : Hmotnosť 61, Cena 81
+--------------
+Predmet č.167 : Hmotnosť 33, Cena 56
+--------------
+Predmet č.168 : Hmotnosť 78, Cena 67
+--------------
+Predmet č.170 : Hmotnosť 40, Cena 88
+--------------
+Predmet č.171 : Hmotnosť 57, Cena 71
+--------------
+Predmet č.172 : Hmotnosť 60, Cena 43
+--------------
+Predmet č.173 : Hmotnosť 57, Cena 79
+--------------
+Predmet č.175 : Hmotnosť 80, Cena 76
+--------------
+Predmet č.176 : Hmotnosť 59, Cena 79
+--------------
+Predmet č.179 : Hmotnosť 46, Cena 65
+--------------
+Predmet č.180 : Hmotnosť 67, Cena 64
+--------------
+Predmet č.181 : Hmotnosť 36, Cena 88
+--------------
+Predmet č.182 : Hmotnosť 49, Cena 50
+--------------
+Predmet č.183 : Hmotnosť 50, Cena 61
+--------------
+Predmet č.185 : Hmotnosť 67, Cena 43
+--------------
+Predmet č.186 : Hmotnosť 41, Cena 58
+--------------
+Predmet č.188 : Hmotnosť 66, Cena 79
+--------------
+Predmet č.189 : Hmotnosť 57, Cena 61
+--------------
+Predmet č.191 : Hmotnosť 39, Cena 60
+--------------
+Predmet č.192 : Hmotnosť 64, Cena 44
+--------------
+Predmet č.193 : Hmotnosť 52, Cena 70
+--------------
+Predmet č.198 : Hmotnosť 43, Cena 68
+--------------
+Predmet č.200 : Hmotnosť 73, Cena 80
+--------------
+Predmet č.202 : Hmotnosť 33, Cena 58
+--------------
+Predmet č.205 : Hmotnosť 45, Cena 83
+--------------
+Predmet č.207 : Hmotnosť 53, Cena 40
+--------------
+Predmet č.208 : Hmotnosť 36, Cena 42
+--------------
+Predmet č.209 : Hmotnosť 37, Cena 51
+--------------
+Predmet č.210 : Hmotnosť 34, Cena 66
+--------------
+Predmet č.213 : Hmotnosť 72, Cena 53
+--------------
+Predmet č.215 : Hmotnosť 76, Cena 75
+--------------
+Predmet č.217 : Hmotnosť 44, Cena 40
+--------------
+Predmet č.218 : Hmotnosť 63, Cena 41
+--------------
+Predmet č.219 : Hmotnosť 33, Cena 41
+--------------
+Predmet č.221 : Hmotnosť 49, Cena 82
+--------------
+Predmet č.222 : Hmotnosť 49, Cena 50
+--------------
+Predmet č.223 : Hmotnosť 45, Cena 80
+--------------
+Predmet č.224 : Hmotnosť 57, Cena 49
+--------------
+Predmet č.225 : Hmotnosť 72, Cena 89
+--------------
+Predmet č.226 : Hmotnosť 38, Cena 59
+--------------
+Predmet č.227 : Hmotnosť 33, Cena 80
+--------------
+Predmet č.228 : Hmotnosť 50, Cena 51
+--------------
+Predmet č.231 : Hmotnosť 72, Cena 62
+--------------
+Predmet č.234 : Hmotnosť 36, Cena 57
+--------------
+Predmet č.235 : Hmotnosť 68, Cena 48
+--------------
+Predmet č.236 : Hmotnosť 73, Cena 83
+--------------
+Predmet č.238 : Hmotnosť 33, Cena 72
+--------------
+Predmet č.239 : Hmotnosť 79, Cena 42
+--------------
+Predmet č.240 : Hmotnosť 67, Cena 42
+--------------
+Predmet č.241 : Hmotnosť 44, Cena 72
+--------------
+Predmet č.242 : Hmotnosť 80, Cena 86
+--------------
+Predmet č.243 : Hmotnosť 66, Cena 49
+--------------
+Predmet č.246 : Hmotnosť 34, Cena 80
+--------------
+Predmet č.247 : Hmotnosť 72, Cena 54
+--------------
+Predmet č.249 : Hmotnosť 66, Cena 40
+--------------
+Predmet č.250 : Hmotnosť 70, Cena 58
+--------------
+Predmet č.251 : Hmotnosť 43, Cena 46
+--------------
+Predmet č.252 : Hmotnosť 38, Cena 56
+--------------
+Predmet č.253 : Hmotnosť 80, Cena 71
+--------------
+Predmet č.254 : Hmotnosť 79, Cena 73
+--------------
+Predmet č.255 : Hmotnosť 77, Cena 42
+--------------
+Predmet č.256 : Hmotnosť 77, Cena 47
+--------------
+Predmet č.257 : Hmotnosť 53, Cena 89
+--------------
+Predmet č.258 : Hmotnosť 64, Cena 48
+--------------
+Predmet č.259 : Hmotnosť 35, Cena 66
+--------------
+Predmet č.261 : Hmotnosť 39, Cena 54
+--------------
+Predmet č.263 : Hmotnosť 68, Cena 66
+--------------
+Predmet č.264 : Hmotnosť 34, Cena 67
+--------------
+Predmet č.265 : Hmotnosť 51, Cena 65
+--------------
+Predmet č.266 : Hmotnosť 68, Cena 45
+--------------
+Predmet č.268 : Hmotnosť 73, Cena 42
+--------------
+Predmet č.271 : Hmotnosť 34, Cena 44
+--------------
+Predmet č.273 : Hmotnosť 57, Cena 80
+--------------
+Predmet č.274 : Hmotnosť 35, Cena 49
+--------------
+Predmet č.275 : Hmotnosť 75, Cena 43
+--------------
+Predmet č.276 : Hmotnosť 56, Cena 50
+--------------
+Predmet č.277 : Hmotnosť 35, Cena 65
+--------------
+Predmet č.278 : Hmotnosť 39, Cena 42
+--------------
+Predmet č.279 : Hmotnosť 54, Cena 61
+--------------
+Predmet č.280 : Hmotnosť 57, Cena 65
+--------------
+Predmet č.282 : Hmotnosť 78, Cena 71
+--------------
+Predmet č.283 : Hmotnosť 69, Cena 68
+--------------
+Predmet č.284 : Hmotnosť 48, Cena 68
+--------------
+Predmet č.286 : Hmotnosť 52, Cena 68
+--------------
+Predmet č.288 : Hmotnosť 71, Cena 50
+--------------
+Predmet č.290 : Hmotnosť 42, Cena 88
+--------------
+Predmet č.291 : Hmotnosť 38, Cena 46
+--------------
+Predmet č.292 : Hmotnosť 76, Cena 88
+--------------
+Predmet č.293 : Hmotnosť 35, Cena 80
+--------------
+Predmet č.294 : Hmotnosť 57, Cena 86
+--------------
+Predmet č.296 : Hmotnosť 36, Cena 67
+--------------
+Predmet č.297 : Hmotnosť 42, Cena 57
+--------------
+Predmet č.298 : Hmotnosť 75, Cena 87
+--------------
+Predmet č.299 : Hmotnosť 35, Cena 70
+--------------
+Predmet č.300 : Hmotnosť 45, Cena 61
+--------------
+Predmet č.301 : Hmotnosť 48, Cena 64
+--------------
+Predmet č.302 : Hmotnosť 71, Cena 65
+--------------
+Predmet č.303 : Hmotnosť 78, Cena 59
+--------------
+Predmet č.304 : Hmotnosť 77, Cena 50
+--------------
+Predmet č.306 : Hmotnosť 59, Cena 68
+--------------
+Predmet č.307 : Hmotnosť 60, Cena 90
+--------------
+Predmet č.309 : Hmotnosť 68, Cena 87
+--------------
+Predmet č.310 : Hmotnosť 53, Cena 89
+--------------
+Predmet č.311 : Hmotnosť 41, Cena 59
+--------------
+Predmet č.312 : Hmotnosť 54, Cena 48
+--------------
+Predmet č.313 : Hmotnosť 35, Cena 53
+--------------
+Predmet č.314 : Hmotnosť 35, Cena 43
+--------------
+Predmet č.315 : Hmotnosť 57, Cena 69
+--------------
+Predmet č.316 : Hmotnosť 74, Cena 46
+--------------
+Predmet č.317 : Hmotnosť 46, Cena 51
+--------------
+Predmet č.318 : Hmotnosť 55, Cena 48
+--------------
+Predmet č.320 : Hmotnosť 57, Cena 70
+--------------
+Predmet č.321 : Hmotnosť 41, Cena 86
+--------------
+Predmet č.322 : Hmotnosť 62, Cena 90
+--------------
+Predmet č.323 : Hmotnosť 62, Cena 86
+--------------
+Predmet č.324 : Hmotnosť 32, Cena 78
+--------------
+Predmet č.326 : Hmotnosť 73, Cena 52
+--------------
+Predmet č.328 : Hmotnosť 51, Cena 87
+--------------
+Predmet č.330 : Hmotnosť 75, Cena 43
+--------------
+Predmet č.331 : Hmotnosť 56, Cena 78
+--------------
+Predmet č.332 : Hmotnosť 77, Cena 51
+--------------
+Predmet č.333 : Hmotnosť 49, Cena 90
+--------------
+Predmet č.334 : Hmotnosť 51, Cena 68
+--------------
+Predmet č.339 : Hmotnosť 38, Cena 49
+--------------
+Predmet č.340 : Hmotnosť 61, Cena 84
+--------------
+Predmet č.341 : Hmotnosť 64, Cena 86
+--------------
+Predmet č.343 : Hmotnosť 50, Cena 59
+--------------
+Predmet č.344 : Hmotnosť 38, Cena 59
+--------------
+Predmet č.348 : Hmotnosť 64, Cena 53
+--------------
+Predmet č.350 : Hmotnosť 35, Cena 77
+--------------
+Predmet č.352 : Hmotnosť 52, Cena 70
+--------------
+Predmet č.354 : Hmotnosť 70, Cena 65
+--------------
+Predmet č.355 : Hmotnosť 52, Cena 44
+--------------
+Predmet č.356 : Hmotnosť 43, Cena 49
+--------------
+Predmet č.359 : Hmotnosť 29, Cena 84
+--------------
+Predmet č.361 : Hmotnosť 63, Cena 59
+--------------
+Predmet č.363 : Hmotnosť 29, Cena 85
+--------------
+Predmet č.364 : Hmotnosť 46, Cena 77
+--------------
+Predmet č.365 : Hmotnosť 46, Cena 77
+--------------
+Predmet č.366 : Hmotnosť 54, Cena 75
+--------------
+Predmet č.367 : Hmotnosť 77, Cena 75
+--------------
+Predmet č.372 : Hmotnosť 62, Cena 51
+--------------
+Predmet č.373 : Hmotnosť 42, Cena 75
+--------------
+Predmet č.374 : Hmotnosť 35, Cena 76
+--------------
+Predmet č.377 : Hmotnosť 43, Cena 81
+--------------
+Predmet č.378 : Hmotnosť 77, Cena 64
+--------------
+Predmet č.379 : Hmotnosť 62, Cena 60
+--------------
+Predmet č.380 : Hmotnosť 34, Cena 50
+--------------
+Predmet č.383 : Hmotnosť 49, Cena 81
+--------------
+Predmet č.384 : Hmotnosť 74, Cena 62
+--------------
+Predmet č.388 : Hmotnosť 58, Cena 65
+--------------
+Predmet č.389 : Hmotnosť 34, Cena 82
+--------------
+Predmet č.390 : Hmotnosť 50, Cena 49
+--------------
+Predmet č.391 : Hmotnosť 42, Cena 49
+--------------
+Predmet č.392 : Hmotnosť 52, Cena 90
+--------------
+Predmet č.393 : Hmotnosť 57, Cena 44
+--------------
+Predmet č.394 : Hmotnosť 53, Cena 50
+--------------
+Predmet č.395 : Hmotnosť 45, Cena 52
+--------------
+Predmet č.396 : Hmotnosť 39, Cena 49
+--------------
+Predmet č.397 : Hmotnosť 54, Cena 88
+--------------
+Predmet č.399 : Hmotnosť 68, Cena 51
+--------------
+Predmet č.402 : Hmotnosť 77, Cena 84
+--------------
+Predmet č.403 : Hmotnosť 45, Cena 60
+--------------
+Predmet č.404 : Hmotnosť 41, Cena 69
+--------------
+Predmet č.406 : Hmotnosť 38, Cena 42
+--------------
+Predmet č.407 : Hmotnosť 64, Cena 70
+--------------
+Predmet č.408 : Hmotnosť 40, Cena 59
+--------------
+Predmet č.409 : Hmotnosť 63, Cena 88
+--------------
+Predmet č.410 : Hmotnosť 57, Cena 88
+--------------
+Predmet č.411 : Hmotnosť 44, Cena 75
+--------------
+Predmet č.412 : Hmotnosť 73, Cena 51
+--------------
+Predmet č.414 : Hmotnosť 70, Cena 77
+--------------
+Predmet č.415 : Hmotnosť 56, Cena 49
+--------------
+Predmet č.416 : Hmotnosť 71, Cena 60
+--------------
+Predmet č.417 : Hmotnosť 69, Cena 57
+--------------
+Predmet č.418 : Hmotnosť 52, Cena 90
+--------------
+Predmet č.419 : Hmotnosť 75, Cena 72
+--------------
+Predmet č.422 : Hmotnosť 47, Cena 56
+--------------
+Predmet č.424 : Hmotnosť 74, Cena 46
+--------------
+Predmet č.426 : Hmotnosť 66, Cena 77
+--------------
+Predmet č.427 : Hmotnosť 50, Cena 42
+--------------
+Predmet č.428 : Hmotnosť 75, Cena 82
+--------------
+Predmet č.430 : Hmotnosť 53, Cena 51
+--------------
+Predmet č.431 : Hmotnosť 77, Cena 40
+--------------
+Predmet č.432 : Hmotnosť 34, Cena 52
+--------------
+Predmet č.433 : Hmotnosť 45, Cena 83
+--------------
+Predmet č.434 : Hmotnosť 54, Cena 49
+--------------
+Predmet č.435 : Hmotnosť 39, Cena 87
+--------------
+Predmet č.438 : Hmotnosť 50, Cena 42
+--------------
+Predmet č.439 : Hmotnosť 33, Cena 54
+--------------
+Predmet č.442 : Hmotnosť 56, Cena 70
+--------------
+Predmet č.443 : Hmotnosť 59, Cena 69
+--------------
+Predmet č.444 : Hmotnosť 57, Cena 68
+--------------
+Predmet č.447 : Hmotnosť 53, Cena 87
+--------------
+Predmet č.448 : Hmotnosť 59, Cena 75
+--------------
+Predmet č.449 : Hmotnosť 48, Cena 61
+--------------
+Predmet č.450 : Hmotnosť 61, Cena 64
+--------------
+Predmet č.451 : Hmotnosť 72, Cena 67
+--------------
+Predmet č.453 : Hmotnosť 78, Cena 71
+--------------
+Predmet č.455 : Hmotnosť 39, Cena 46
+--------------
+Predmet č.456 : Hmotnosť 39, Cena 73
+--------------
+Predmet č.457 : Hmotnosť 32, Cena 43
+--------------
+Predmet č.458 : Hmotnosť 73, Cena 69
+--------------
+Predmet č.459 : Hmotnosť 62, Cena 69
+--------------
+Predmet č.460 : Hmotnosť 30, Cena 86
+--------------
+Predmet č.461 : Hmotnosť 37, Cena 83
+--------------
+Predmet č.463 : Hmotnosť 50, Cena 54
+--------------
+Predmet č.465 : Hmotnosť 38, Cena 82
+--------------
+Predmet č.466 : Hmotnosť 46, Cena 85
+--------------
+Predmet č.468 : Hmotnosť 67, Cena 54
+--------------
+Predmet č.469 : Hmotnosť 40, Cena 54
+--------------
+Predmet č.472 : Hmotnosť 63, Cena 67
+--------------
+Predmet č.473 : Hmotnosť 78, Cena 50
+--------------
+Predmet č.475 : Hmotnosť 54, Cena 55
+--------------
+Predmet č.476 : Hmotnosť 76, Cena 63
+--------------
+Predmet č.477 : Hmotnosť 37, Cena 40
+--------------
+Predmet č.479 : Hmotnosť 60, Cena 55
+--------------
+Predmet č.480 : Hmotnosť 57, Cena 70
+--------------
+Predmet č.481 : Hmotnosť 42, Cena 85
+--------------
+Predmet č.482 : Hmotnosť 58, Cena 63
+--------------
+Predmet č.483 : Hmotnosť 36, Cena 81
+--------------
+Predmet č.485 : Hmotnosť 68, Cena 59
+--------------
+Predmet č.486 : Hmotnosť 74, Cena 48
+--------------
+Predmet č.487 : Hmotnosť 57, Cena 53
+--------------
+Predmet č.488 : Hmotnosť 35, Cena 84
+--------------
+Predmet č.489 : Hmotnosť 47, Cena 84
+--------------
+Predmet č.492 : Hmotnosť 63, Cena 75
+--------------
+Predmet č.493 : Hmotnosť 47, Cena 40
+--------------
+Predmet č.494 : Hmotnosť 67, Cena 44
+--------------
+Predmet č.495 : Hmotnosť 77, Cena 55
+--------------
+Predmet č.496 : Hmotnosť 52, Cena 44
+--------------
+Predmet č.498 : Hmotnosť 71, Cena 50
+--------------
